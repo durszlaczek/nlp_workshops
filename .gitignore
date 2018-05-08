@@ -1,0 +1,20 @@
+# jupyter notebook 
+*.ipynb_checkpoints*
+
+# pycharm
+*.idea*
+
+# macos
+*.DS_Store*
+
+# work in progress
+*experiments/*
+
+# other caches
+*.cache*
+*bash_history*
+*__pycache__*
+*.pyc
+
+# large files
+*.csv
