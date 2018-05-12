@@ -11,13 +11,17 @@
 
 ## Syllabus
 
- - [gdoc sheet with syllabus notes](https://drive.google.com/drive/folders/1vrmmGcYGsU9nud5Q5z9Go4beP6WohX4V?usp=sharing)
+ - [Google drive with lecture notes](https://drive.google.com/drive/folders/1vrmmGcYGsU9nud5Q5z9Go4beP6WohX4V?usp=sharing)
 
- 1. Week 1
-  1.1 Intro, around the NLP
-  1.2 Corpora and their problems
-  1.3 Text Normalization
-  1.4 N-Gram
-  1.5 Lemma, PoS, dependency-parsing
-  1.6 LDA 
-  1.7 work 
+### Week 1
+
+1. Intro, around the NLP
+2. Text Normalization and RegEx
+3. LDA
+
+### Week 2
+1. Lemma, PoS, dependency-parsing
+2. Lemmatization in Polish (morfeusz)
+3. BoW models
+4. word2vec
+
