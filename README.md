@@ -9,6 +9,15 @@
  - [`./src`](./src) - helper functions (mostly data gathering)
  - [`./docker`](./docker) - Dockerfiles for Morfeusz and MACA / krnnt (for working with Polish language)
 
+## Data
+
+We store large files with [Git LFS](https://git-lfs.github.com/). To download all data used in this tutorial you need to have Git LFS installed. Then, after cloning the repo, run the following.
+
+```
+git lfs pull
+```
+
+
 ## Syllabus
 
  - [Google drive with lecture notes](https://drive.google.com/drive/folders/1vrmmGcYGsU9nud5Q5z9Go4beP6WohX4V?usp=sharing)
