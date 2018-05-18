@@ -15,8 +15,6 @@ cytoolz==0.8.2
 decorator==4.3.0
 dill==0.2.7.1
 docutils==0.14
-en-core-web-md==2.0.0
-en-core-web-sm==2.0.0
 entrypoints==0.2.3
 future==0.16.0
 gensim==3.4.0
@@ -82,7 +80,6 @@ simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
 smart-open==1.5.7
-spacy==2.0.11
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
