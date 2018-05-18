@@ -16,5 +16,3 @@
 *__pycache__*
 *.pyc
 
-# large files
-*.csv
