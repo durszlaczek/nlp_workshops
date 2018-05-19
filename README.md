@@ -34,3 +34,8 @@ git lfs pull
 3. BoW models
 4. word2vec
 
+### Week 3
+1. Introduction to neural networks
+2. RNNs
+3. LSTMs
+
