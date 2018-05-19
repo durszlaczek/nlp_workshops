@@ -1,6 +1,8 @@
+absl-py==0.2.1
 appnope==0.1.0
+astor==0.6.2
 backcall==0.1.0
-bleach==2.1.3
+bleach==1.5.0
 boto==2.48.0
 boto3==1.7.5
 botocore==1.10.5
@@ -17,9 +19,11 @@ dill==0.2.7.1
 docutils==0.14
 entrypoints==0.2.3
 future==0.16.0
+gast==0.2.0
 gensim==3.4.0
 grpcio==1.11.0
-html5lib==1.0.1
+h5py==2.7.1
+html5lib==0.9999999
 httplib2==0.11.3
 idna==2.6
 ipykernel==4.8.2
@@ -34,7 +38,9 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
+Keras==2.1.6
 kiwisolver==1.0.1
+Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
 mistune==0.8.3
@@ -66,6 +72,7 @@ Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2018.4
+PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
 regex==2017.4.5
@@ -80,6 +87,8 @@ simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
 smart-open==1.5.7
+tensorboard==1.8.0
+tensorflow==1.8.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
@@ -92,5 +101,6 @@ ujson==1.35
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+Werkzeug==0.14.1
 widgetsnbextension==3.2.1
 wrapt==1.10.11
