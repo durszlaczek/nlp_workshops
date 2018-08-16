@@ -1,4 +1,4 @@
-![nlp_workshop](https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/30708383_1674919049257807_7620685005869547520_o.jpg?_nc_cat=0&oh=9ea695d57bf1d5c1ca7eff3d7a97cfa7&oe=5B6A25AF)
+![nlp_workshop](nlp.jpg)
 
 # NLP Workshop | Tooploox & Grupa Pracuj
 
